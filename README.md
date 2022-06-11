@@ -9,7 +9,7 @@
  </ul>
  
  <br>
-<h2>Skills</h2>
+<h3>Skills</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
