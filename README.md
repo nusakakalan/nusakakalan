@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=nusaK%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=nusaK%20&animation=fadeIn&fontAlignY=40&color=gradient)
 
 ### Hi there 👋
 <ul>
@@ -6,6 +6,21 @@
   <li>🌱 I’m currently learning Fullstack </li>
   <li>👯 I’m looking to collaborate on community projects</li>
  </ul>
+ 
+ <br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,redux,nextjs,vue,netlify,html,css,js,ts,tailwind,bootstrap" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,materialui,python,django,mysql,sqlite,mongo,c,cpp,java,github" />
+  </a>
+</p>
+
 <details close="false">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
